@@ -22,9 +22,9 @@ def calculate_store_kpis(store_name, total_sales, transaction_count):
 
 # Simulated data feed from retail locations (e.g., extracted from POS/ERP exports)
 store_data_feed = [
-    {"store": "Napoli Store", "sales": 4500.50, "transactions": 180},
-    {"store": "Roma Store", "sales": 6200.00, "transactions": 210},
-    {"store": "Milano Store", "sales": 7800.80, "transactions": 290}
+    {"store": "A Store", "sales": 4500.50, "transactions": 180},
+    {"store": "B Store", "sales": 6200.00, "transactions": 210},
+    {"store": "C Store", "sales": 7800.80, "transactions": 290}
 ]
 
 def main():
